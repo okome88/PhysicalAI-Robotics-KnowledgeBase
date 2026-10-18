@@ -1,0 +1,2 @@
+# PhysicalAI-Robotics-KnowledgeBase
+ロボティクスとフィジカルAI関連の論文だったり知識を保管する場所
